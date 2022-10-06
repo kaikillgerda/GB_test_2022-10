@@ -2,3 +2,10 @@
 Третий семинар к GIT
 
 Local change
+
+Remote change
+
+Remote list
+
+* 1 item
+* 2 item
